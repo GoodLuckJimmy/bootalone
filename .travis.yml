@@ -49,7 +49,7 @@ deploy:
 
 
 # CI 실행 완료시 메일로 알람
-notifications:
-  email:
-    recipients:
-      - seok.han.io@gmail.com
+#notifications:
+#  email:
+#    recipients:
+#      - seok.han.io@gmail.com
